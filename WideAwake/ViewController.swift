@@ -3,7 +3,7 @@
 //  WideAwake
 //
 //  Created by Ezra Kirsh on 2016-12-17.
-//  Copyright © 2016 Ezra Kirsh. All rights reserved.
+//  Copyright © 2016 Ezra Kirsh and Sunrose Billing. All rights reserved.
 //
 
 import UIKit
